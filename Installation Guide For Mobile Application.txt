@@ -1,0 +1,7 @@
+Mobile Application Installation Guide:
+
+1) Copy the app-debug app from "driverON apk folder" and install it in your mobile application.
+
+2) After successfull installation in the mobile phone go to settings --> installed application --> Permissions -->Enable Location.
+
+3) After step 2, the application will be set on.
